@@ -99,22 +99,18 @@ npm start
 ### Sequence Diagram
 ![Payment Flow](https://via.placeholder.com/600x400.png?text=Payment+Sequence+Diagram)
 
+## 🙏 Acknowledgments
+### 📚 Course: 
+**Software Construction and Design**
+
+### 👩‍🏫 Instructor: 
+**Hifza Ali**
+
 ## Contributors 👥
 - [Hassan Ali Mashwani](https://github.com/HassanAliMashwani)
-- [Add Teammate 2]
-- [Add Teammate 3]
-- [Add Teammate 4]
+- [Syed Ghazi Raza Kazmi](https://github.com/Ghazi-Kazmi)
+- [M.Aalyan Mughal](https://github.com/allayanmughal)
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-**To Use This README:**
-1. Replace placeholder image URLs with actual diagrams
-2. Add contributor names
-3. Upload UML diagrams to repo's `/docs` folder
-4. Add screenshots of your frontend (if available)
-5. Update license if needed
-
-Would you like me to add specific sections for deployment instructions or API documentation details?
