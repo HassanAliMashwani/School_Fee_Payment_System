@@ -7,8 +7,6 @@
 
 A concurrent SaaS application for educational institutions to manage fee payments, built with Node.js, Express, and MongoDB. Implements SOLID principles and concurrent programming patterns.
 
-![System Architecture Diagram](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
-
 ## Features ✨
 - **Concurrent Payment Processing** using Bull queues
 - **Atomic Transactions** with MongoDB sessions
@@ -113,4 +111,6 @@ npm start
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Project Inspired By:
+Link of Project (https://github.com/kalbek/schoolfeepayment)
 
