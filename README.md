@@ -90,13 +90,6 @@ npm start
    paymentSchema.index({ user: 1, date: 1 }, { unique: true });
    ```
 
-## System Design 🏗️
-### UML Class Diagram
-![UML Diagram](https://via.placeholder.com/600x400.png?text=UML+Class+Diagram)
-
-### Sequence Diagram
-![Payment Flow](https://via.placeholder.com/600x400.png?text=Payment+Sequence+Diagram)
-
 ## 🙏 Acknowledgments
 ### 📚 Course: 
 **Software Construction and Design**
